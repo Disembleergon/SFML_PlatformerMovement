@@ -1,0 +1,7 @@
+/.vs/
+/x64/
+*.sln
+/PlatformerMovement/x64/
+/PlatformerMovement/*.vcxproj
+/PlatformerMovement/*.user
+/PlatformerMovement/*.filters
